@@ -6,6 +6,8 @@ node_modules
 # local env files
 .env.local
 .env.*.local
+#aqui va el archivo env en el que puse la clave
+.env  
 
 # Log files
 npm-debug.log*

@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+https://api.rawg.io/api/games?key=process.env.VUE_APP_apikey
